@@ -34,6 +34,5 @@ variable "virtual_machines" {
                 gateway = "192.168.0.1"
                 dns = "192.168.0.1"
             }
-            #test
         }
 }
